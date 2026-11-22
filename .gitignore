@@ -4,3 +4,5 @@ node_modules/
 !.env.example
 runtime-data/
 tmp/
+public/
+.vercel/
